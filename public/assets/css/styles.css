@@ -5,3 +5,29 @@
     /* font-weight:  bolder; */
 
 }
+
+.card-header {
+    background-image: url("../images/House01.png");
+    background-size: contain;
+}
+
+#search {
+    background-image: url("../images/hands01a.png");
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: 60px;
+    /* opacity: 0.3; */
+    /* color:  red; */
+    /* font-weight:  bolder; */
+
+}
+
+#provide {
+    background-image: url("../images/hands01b.png");
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: 100px;
+    /* opacity: 0.3; */
+    /* color:  red; */
+    /* font-weight:  bolder; */
+}
