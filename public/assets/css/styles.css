@@ -1,46 +1,47 @@
-.jumbotron {
-    background-image: url("../images/House01.png");
+body {
+    background-image: url("../images/House02b.png");
     /* opacity: 0.3; */
     /* color:  red; */
     /* font-weight:  bolder; */
 
 }
 
-.card-header {
-    background-image: url("../images/House01.png");
-    background-size: contain;
-}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
 
-#search {
+
+/* #search {
     background-image: url("../images/hands01a.png");
     background-repeat: no-repeat;
     background-size: 65%;
     background-position: 60px;
-    /* opacity: 0.3; */
-    /* color:  red; */
-    /* font-weight:  bolder; */
+    opacity: 0.3;
+    color:  red;
+    font-weight:  bolder;
 
-}
+} */
 
-#provide {
+/* #provide {
     background-image: url("../images/hands01b.png");
     background-repeat: no-repeat;
     background-size: 65%;
     background-position: 100px;
-    /* opacity: 0.3; */
-    /* color:  red; */
-    /* font-weight:  bolder; */
-}
+    opacity: 0.3;
+    color:  red;
+    font-weight:  bolder;
+} */
 
-#money01 {
+/* #money01 {
     background-image: url("../images/money01.png");
     background-repeat: no-repeat;
     background-size: 90%;
-}
+} */
 
-#money02 {
+/* #money02 {
     background-image: url("../images/money02.png");
     background-repeat: no-repeat;
     background-size: 80%;
     background-position: top 10px left 10px;
-}
+} */
